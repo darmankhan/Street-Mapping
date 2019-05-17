@@ -1,9 +1,5 @@
 Project 3
-Collaborators: Darman Khan 
-NetID: dkhan2
-
-Collaborator: Bahawar Sharif Dhillon	
-NetID: bdhillon
+Collaborators: Darman Khan (NetID: dkhan2), Bahawar Sharif Dhillon(NetID: bdhillon)
 
 In this project we implemented Dijkstra's Algorithm to compute the shortest path from one vertex to the other. This was done using 3 main classes: Intersection, Road and StreetMap.  
 
