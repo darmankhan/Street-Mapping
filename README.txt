@@ -1,3 +1,5 @@
+This program implements Dijkstra's Algorithm to compute the shortest path between two points and was a project in the CSC172 course at the University of Rochester.
+
 Project 3
 Collaborators: Darman Khan (NetID: dkhan2), Bahawar Sharif Dhillon(NetID: bdhillon)
 
